@@ -1,0 +1,21 @@
+.scrollbar {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    overflow-y: auto;
+    scrollbar-width: thin;
+    
+  }
+  
+  .scrollbar::-webkit-scrollbar {
+    width: 8px; /* Adjust scrollbar width as needed */
+    border-radius: 10px; /* Adjust border-radius for rounded edges */
+  }
+  
+  .scrollbar::-webkit-scrollbar-thumb {
+    background-color: rgb(35, 35, 128); /* Change scrollbar thumb color */
+    border-radius: 10px; /* Same border-radius as scrollbar */
+  }
+  
+  .content {
+    padding: 10px; /* Adjust padding to make sure content doesn't touch scrollbar */
+  }

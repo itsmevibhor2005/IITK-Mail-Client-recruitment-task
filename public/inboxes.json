@@ -1,0 +1,182 @@
+[
+  {
+      "id":1,
+      "heading": "Meeting Agenda",
+      "from": "John Doe",
+      "sender": "john.doe@example.com",
+      "body": "Attached is the agenda for our meeting tomorrow. Please review it carefully and come prepared with any questions or concerns you may have. We aim to cover all the important points within the allocated time. Looking forward to a productive discussion. Let's make sure we address all the key topics and make the most of our time together. Your input is crucial to the success of this meeting. If there are any additional items you'd like to discuss, feel free to let me know in advance. Looking forward to seeing you there!",
+      "date": "01-Apr-2024",
+      "time": "08:30 AM"
+  },
+  {
+      "id":2,
+      "heading": "Vacation Plans",
+      "from": "Alice Smith",
+      "sender": "alice.smith@example.com",
+      "body": "Hey there! I've finalized our vacation plans. Let's discuss the details and make sure everything is in order. I'm excited about this trip and can't wait to share the itinerary with you. Reply when you get a chance. I've taken into account everyone's preferences and interests to create an itinerary that I believe will ensure a memorable and enjoyable experience for all of us. From sightseeing to dining, I've planned it all! Let's finalize the details together so we can make the most of our time off.",
+      "date": "01-Apr-2024",
+      "time": "10:00 AM"
+  },
+  {
+      "id":3,
+      "heading": "Project Update",
+      "from": "David Brown",
+      "sender": "david.brown@example.com",
+      "body": "Here's the latest update on our project progress. We've made significant strides since our last meeting and are on track to meet our deadlines. Please review the attached document for details and let me know if you have any questions. Your feedback is invaluable as we navigate through the remaining phases of the project. Our success depends on effective communication and collaboration, so let's ensure we're aligned every step of the way.",
+      "date": "01-Apr-2024",
+      "time": "01:30 PM"
+  },
+  {
+      "id": 4,
+      "heading": "Invitation to Webinar",
+      "from": "Emily Johnson",
+      "sender": "emily.johnson@example.com",
+      "body": "You're invited to attend our upcoming webinar on AI. It promises to be an insightful session with industry experts sharing their knowledge and expertise. Register now to secure your spot and mark your calendar for the event. We've lined up a series of engaging presentations and interactive sessions that will provide valuable insights into the latest trends and developments in AI. Don't miss out on this opportunity to expand your knowledge and network with like-minded professionals.",
+      "date": "01-Apr-2024",
+      "time": "03:00 PM"
+  },
+  {
+      "id": 5,
+      "heading": "Feedback Request",
+      "from": "Jessica Lee",
+      "sender": "jessica.lee@example.com",
+      "body": "We'd appreciate your feedback on our recent services. Your input is invaluable to us as we strive to improve and deliver better experiences to our customers. Please take a few moments to share your thoughts with us. Your feedback helps us identify areas where we excel and areas where we can improve. We take every comment seriously and use it to inform our decisions moving forward. Thank you in advance for taking the time to provide your valuable feedback.",
+      "date": "01-Apr-2024",
+      "time": "04:30 PM"
+  },
+  {
+      "id": 6,
+      "heading": "Meeting Rescheduled",
+      "from": "Michael Green",
+      "sender": "michael.green@example.com",
+      "body": "Our meeting has been rescheduled to next week. Please take note of the new date and time. We apologize for any inconvenience this may cause and appreciate your understanding. The change was necessary to accommodate the schedules of all participants and ensure maximum attendance. If you have any conflicts with the new timing, please let me know as soon as possible so we can find an alternative solution.",
+      "date": "01-Apr-2024",
+      "time": "09:00 AM"
+  },
+  {
+      "id": 7,
+      "heading": "Holiday Greetings",
+      "from": "Sarah White",
+      "sender": "sarah.white@example.com",
+      "body": "Wishing you and your loved ones a joyous holiday season! May this time be filled with warmth, laughter, and cherished moments. Here's to a wonderful celebration and a happy new year! Let's take this opportunity to reflect on the year gone by and look forward to the adventures that await us in the year ahead. Cheers to health, happiness, and prosperity!",
+      "date": "01-Apr-2024",
+      "time": "11:30 AM"
+  },
+  {
+      "id": 8,
+      "heading": "Task Assignment",
+      "from": "Chris Taylor",
+      "sender": "chris.taylor@example.com",
+      "body": "You've been assigned a new task. Please check the details in the attached document and let me know if you have any questions. Your prompt attention to this matter is appreciated. We believe this task plays a crucial role in achieving our project goals, and we're counting on your expertise to deliver excellent results. If you need any support or resources to complete the task, don't hesitate to reach out.",
+      "date": "01-Apr-2024",
+      "time": "02:45 PM"
+  },
+  {
+      "id": 9,
+      "heading": "Product Launch Announcement",
+      "from": "Marketing Team",
+      "sender": "marketing@example.com",
+      "body": "Exciting news! Our new product is launching next month. Stay tuned for more updates and marketing materials to help spread the word. We're counting on your support to make this launch a success! We've put in a lot of hard work and dedication to bring this product to market, and we're confident that it will exceed expectations. Thank you for your continued support and enthusiasm!",
+      "date": "01-Apr-2024",
+      "time": "05:15 PM"
+  },
+  {
+      "id": 10,
+      "heading": "Reminder: Monthly Report",
+      "from": "Manager",
+      "sender": "manager@example.com",
+      "body": "Don't forget to submit your monthly report by end of week. This report is crucial for tracking progress and making informed decisions. Your cooperation is greatly appreciated. The data you provide in your report helps us evaluate our performance and identify areas for improvement. It's an essential part of our ongoing efforts to achieve our organizational goals. Thank you for your diligence and commitment.",
+      "date": "01-Apr-2024",
+      "time": "12:00 PM"
+  },
+  {
+      "id": 11,
+      "heading": "Birthday Celebration",
+      "from": "Colleague",
+      "sender": "colleague@example.com",
+      "body": "Join us in celebrating Jane's birthday in the break room at noon! We'll have cake, snacks, and lots of fun. Let's make it a memorable day for her. It's always nice to take a break from work and celebrate special occasions with colleagues. Your presence will surely make Jane's day even more special. Looking forward to seeing you there!",
+      "date": "01-Apr-2024",
+      "time": "12:00 PM"
+  },
+  {
+      "id": 12,
+      "heading": "Training Session Reminder",
+      "from": "Training Coordinator",
+      "sender": "training@example.com",
+      "body": "Reminder: Training session on new software tools tomorrow. This session is mandatory for all employees who will be using the new tools. Please make sure to attend. The training will cover all the essential features and functionalities of the new software, as well as best practices for usage. Your active participation is crucial to ensure a smooth transition to the new system. If you have any questions or concerns, don't hesitate to reach out to the training coordinator.",
+      "date": "01-Apr-2024",
+      "time": "10:30 AM"
+  },
+  {
+      "id": 13,
+      "heading": "Network Maintenance Notification",
+      "from": "IT Department",
+      "sender": "it@example.com",
+      "body": "Scheduled network maintenance this weekend. Expect brief interruptions in service during the maintenance window. We apologize for any inconvenience. The maintenance is necessary to perform essential upgrades and optimizations to our network infrastructure. We'll do our best to minimize downtime and restore full service as quickly as possible. Thank you for your understanding and cooperation.",
+      "date": "01-Apr-2024",
+      "time": "09:00 PM"
+  },
+  {
+      "id": 14,
+      "heading": "Team Building Activity",
+      "from": "HR Department",
+      "sender": "hr@example.com",
+      "body": "We're organizing a team building activity next Friday afternoon. Please mark your calendars and be prepared to participate. Team building activities are a great way to foster collaboration, communication, and camaraderie among team members. We have some exciting games and challenges planned that are sure to be both fun and engaging. Let's take this opportunity to strengthen our team bonds and have a great time together!",
+      "date": "01-Apr-2024",
+      "time": "03:00 PM"
+  },
+  {
+      "id": 15,
+      "heading": "New Company Policy",
+      "from": "Management",
+      "sender": "management@example.com",
+      "body": "We're introducing a new company policy regarding remote work. Please review the attached document for details. The policy aims to provide guidelines and expectations for employees who work remotely, ensuring productivity and accountability while maintaining work-life balance. Your feedback on the policy is welcome as we strive to create a supportive and flexible work environment.",
+      "date": "01-Apr-2024",
+      "time": "02:00 PM"
+  },
+  {
+      "id": 16,
+      "heading": "Volunteer Opportunity",
+      "from": "Community Outreach",
+      "sender": "outreach@example.com",
+      "body": "We're looking for volunteers to participate in our community cleanup event next weekend. It's a great opportunity to give back to the community and make a positive impact on the environment. We'll provide all the necessary equipment and instructions. Join us in making our neighborhood cleaner and greener!",
+      "date": "01-Apr-2024",
+      "time": "08:00 AM"
+  },
+  {
+      "id": 17,
+      "heading": "Customer Satisfaction Survey",
+      "from": "Customer Support",
+      "sender": "support@example.com",
+      "body": "We value your feedback! Please take a few minutes to complete our customer satisfaction survey. Your responses will help us improve our products and services to better meet your needs. Your opinion matters to us, and we appreciate your time and input.",
+      "date": "01-Apr-2024",
+      "time": "11:00 AM"
+  },
+  {
+      "id": 18,
+      "heading": "Project Kickoff Meeting",
+      "from": "Project Manager",
+      "sender": "pm@example.com",
+      "body": "We're having a project kickoff meeting next Monday to discuss project goals, timelines, and roles and responsibilities. Your attendance is required as a key member of the project team. We'll also use this meeting to address any questions or concerns you may have. Let's start this project on the right foot and work together towards its successful completion.",
+      "date": "01-Apr-2024",
+      "time": "09:30 AM"
+  },
+  {
+      "id": 19,
+      "heading": "Company Picnic",
+      "from": "Event Committee",
+      "sender": "eventcommittee@example.com",
+      "body": "Get ready for our annual company picnic! Join us for a day of fun, food, and games at the local park. It's a great opportunity to relax and socialize with colleagues outside of work. We'll have something for everyone, from barbecue to volleyball. Don't miss out on this chance to unwind and enjoy some quality time with your coworkers.",
+      "date": "01-Apr-2024",
+      "time": "12:30 PM"
+  },
+  {
+      "id": 20,
+      "heading": "Performance Review Reminder",
+      "from": "HR Department",
+      "sender": "hr@example.com",
+      "body": "Just a friendly reminder that performance reviews are due next month. Please start preparing your self-assessment and gathering feedback from your manager and colleagues. Performance reviews are an important opportunity to reflect on your achievements and areas for growth. Your active participation in the review process ensures a fair and constructive evaluation of your performance.",
+      "date": "01-Apr-2024",
+      "time": "02:00 PM"
+  }
+]
